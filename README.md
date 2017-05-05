@@ -1,3 +1,5 @@
+![matterhorn](screenshot.png)
+
 Greasemonkey-Script, um den Download-Button im Matterhorn Engage-Frontend zu
 (re-)aktivieren.
 
